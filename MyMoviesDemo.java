@@ -1,8 +1,4 @@
-/* CS 112 Final Project
-   File Name:          AddMovie.java, DisplayWindow.java, Movie.java, MyMoivesDemo.java
-   Programmer:         Jiajia Jing
-   Date Last Modified: May 25th, 2011
-
+/* 
    Problem Statement: 
    		Write a project that allow user to add the movie into file, read out certian 
    		type of movies from the file and display in the window
